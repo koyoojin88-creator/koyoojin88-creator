@@ -1,0 +1,12 @@
+# 아바타·마크 검토용 렌더. **저장소에 두지 않는다.**
+#
+# 여기는 공개 프로필 저장소이고 README 는 이 이미지들을 하나도 참조하지 않는다.
+# avatar-*.png 와 contact*.png 는 `make-avatar.py` 가 다시 만든다 — 결과물 대신
+# 만드는 법을 커밋한다.
+#
+# favicon-sizes.png · mark-sizes.png 는 사이트 쪽 마크 작업에서 나온 일회성
+# 렌더다(생성기가 없다). 그 검토의 결론은 사이트 저장소의 커밋 메시지에 있다.
+avatar-*.png
+contact*.png
+favicon-sizes.png
+mark-sizes.png
